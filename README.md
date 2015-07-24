@@ -1,10 +1,13 @@
 # polymer-base-snippets
-Base Snippets for Polymer projects
+<<<<<<< HEAD
+Snippets for Polymer projects
 
 ## Files:
 
 ### index.html
-Start page for a Polymer project
+A file for a Polymer project to start with
 
-### dom-module.html
-Template to create a new element (dom-module) for Polymer is a separate html file
+## dom-module.html
+Template to create a new element (dom-module) for Polymer in a separate html file
+
+>>>>>>> branch 'master' of https://github.com/ShaneDiNozzo/polymer-base-snippets.git
