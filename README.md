@@ -1,8 +1,7 @@
 # polymer-base-snippets
 Base Snippets for Polymer projects
 
-### Files:
-==========
+## Files:
 
 ### index.html
 Start page for a Polymer project
